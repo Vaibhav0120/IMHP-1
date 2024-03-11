@@ -1,0 +1,15 @@
+Python>Flank>SQLite   
+Html>Jinja2  [Bootstrap]
+
+pip install gunicorn
+pip freeze requirements.txt
+Procfile
+web:gunicorn app:app
+
+git init
+git add .
+git commit -m "Initial commmit"
+
+heroku create todo-codewithharry
+git remote -v
+git push heroku master
