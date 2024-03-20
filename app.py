@@ -32,7 +32,7 @@ def index():
         db.session.commit()
 
     alldata = Data.query.all()
-    return render_template('index.html', alldata=alldata, hin_translation=hin_translation)
+    return render_template('index.html', alldata=alldata, hin_translation=hin_translation, active_page='home')
 
 @app.route('/delete/<int:sno>')
 def delete(sno):
@@ -49,7 +49,7 @@ def reset_history():
 
 @app.route('/about')
 def about():
-    return render_template('about.html')
+    return render_template('about.html', active_page='about')
 
 def translate_to_hindi(text):
     try:
