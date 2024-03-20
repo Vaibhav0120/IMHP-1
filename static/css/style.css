@@ -46,10 +46,29 @@ body {
 }
 
 /* Tables */
+.table {
+    width: 100%;
+    margin-bottom: 1rem;
+    border-collapse: collapse; /* Collapse borders between table cells */
+}
+
 .table th,
 .table td {
-    padding: 0.8rem; /* Reduce padding for table cells */
-    font-size: 0.9rem; /* Reduce font size for table cells */
+    padding: 0.75rem;
+    vertical-align: top;
+    border: none; /* Remove border from table cells */
+}
+
+.table th {
+    border-bottom: 2px solid #dee2e6;
+}
+
+.table thead th {
+    border-bottom: 2px solid #dee2e6;
+}
+
+.table tbody + tbody {
+    border-top: 2px solid #dee2e6;
 }
 
 /* Alerts */
@@ -57,3 +76,20 @@ body {
     padding: 0.8rem; /* Reduce padding for alerts */
     font-size: 0.9rem; /* Reduce font size for alerts */
 }
+
+/* Input */
+
+/* Custom CSS */
+input[type="text"] {
+    border: none;
+    border-bottom: 1px solid #ccc; /* Add bottom border for a glassy effect */
+    background-color: rgba(255, 255, 255, 0.8); /* Set background color with transparency */
+    padding: 8px; /* Adjust padding as needed */
+}
+
+input[type="text"]:focus {
+    outline: none;
+    border-bottom-color: #007bff; /* Change bottom border color on focus */
+}
+
+
