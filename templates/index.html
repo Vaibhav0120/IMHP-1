@@ -1,8 +1,8 @@
 {% extends 'base.html' %}
 {% block body %}
 
-<div class="container my-3">
-    <h2>English To Hindi Translator</h2>
+<div class="container my-3 ">
+    
     <form action="/" method="POST">
         <div class="mb-3">
             <label for="eng" class="form-label">English</label>
@@ -40,7 +40,7 @@
                         <th scope="row">{{ loop.index }}</th>
                         <td>{{ entry.eng }}</td>
                         <td>{{ entry.hin }}</td>
-                        <td>{{ entry.date_created.strftime("%Y-%m-%d %H:%M:%S") }}</td>
+                        <td>{{ entry.date_created.strftime("%H:%M:%S %d-%m-%Y") }}</td>
                         <td>
                             <a href="/delete/{{ entry.sno }}" class="btn btn-outline-dark btn-sm mx-1">Delete</a>
                         </td>

@@ -1,2 +1,5 @@
 Python>Flank>SQLite   
 Html>Jinja2  [Bootstrap]
+
+
+pip install --upgrade httpcore
