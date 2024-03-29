@@ -84,8 +84,7 @@ body {
 
 /* Custom CSS */
 input[type="text"] {
-    border: none;
-    border-bottom: 1px solid #ccc; /* Add bottom border for a glassy effect */
+    border: 1px solid rgba(0, 0, 0, 0.699); 
     background-color: rgba(255, 255, 255, 0.8); /* Set background color with transparency */
     padding: 8px; /* Adjust padding as needed */
 }
