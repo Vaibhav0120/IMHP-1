@@ -7,8 +7,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Bootstrap CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet"
-        integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+            integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
     
     <!-- Custom CSS -->
     <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
@@ -18,26 +18,43 @@
 
 <body>
     <!-- NavBar-->
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <div class="container-fluid">
-            <a class="navbar-brand" href="/">English To Hindi Translator</a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
-                data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
-                aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                    <li class="nav-item">
-                        <a class="nav-link {% if active_page == 'home' %}active{% endif %}" aria-current="page" href="/">Home</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link {% if active_page == 'about' %}active{% endif %}" href="/about">About</a>
-                    </li>
-                </ul>
-            </div>
+    
+
+    <nav class="navbar navbar-expand-lg navbar-light bg-white py-2 fixed-top">  <!-- py-size fixed top -->
+        <div class="container">
+            <!-- NavBar Icon-->
+          <h3>English To Hindi Translator</h3>
+            <!-- NavBar Mobile icon-->
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span><i id="bar" class="fas fa-bars"></i></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <!-- List -->
+            <ul class="navbar-nav ml-auto">
+              
+              <li class="nav-item">
+                <a class="nav-link {% if active_page == 'home' %}active{% endif %}" href="/">Home</a>
+              </li>
+
+              <li class="nav-item">
+                <a class="nav-link {% if active_page == 'about' %}active{% endif %}" href="/about">About</a>
+              </li>
+
+        
+              <!--Icon-->
+              <li class="nav-item">
+
+                  <i class="fal fa-search"></i> 
+                  <i id="cart-icon" class="fal fa-shopping-bag"></i>
+                
+
+              </li>
+              
+              
+          </div>
         </div>
-    </nav>
+      </nav>
+
     {% block body %}
     
     {% endblock body %}
