@@ -32,7 +32,7 @@ body {
   .navbar i:hover,
   .navbar-light .navbar-nav .nav-link.active,
   .navbar i.active{
-    color:lightblue;
+    color: hsl(203, 92%, 19%);
   }
 
 
