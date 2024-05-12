@@ -5,6 +5,8 @@
 Features:
 </h3>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/361933/screenshots/1945595/media/cab8adf9008a598f724eb798b0d9ca40.gif">
+
 <h5 align="left">✨ Accurate Translation: </h5>
 <p align="left">Utilizes advanced machine learning algorithms for precise translations from English to Hindi.</p>
 
