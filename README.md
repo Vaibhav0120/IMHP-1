@@ -43,7 +43,7 @@ Experience the future of language translation at the Interprastha Engineering Co
 
 <br>
 
-<img src="https://github.com/Vaibhav0120/IMHP-1/assets/150184948/5b9f9578-9c85-43ce-be22-d19a60451de4">
+<img src="https://github.com/Vaibhav0120/IMHP-1/assets/150184948/e5406361-cfae-48ad-bf01-0d10fe114b80">
 
  <br>
  
