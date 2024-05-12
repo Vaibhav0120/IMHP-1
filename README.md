@@ -1,11 +1,13 @@
 
 <h1 align="center">Introducing our English to Hindi Translator</h1>
 
-<br> <br>
+<br>
 
-<h3 align="center">
+<h2 align="center">
 Features:
-</h3>
+</h2>
+
+ <br> <br>
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/361933/screenshots/1945595/media/cab8adf9008a598f724eb798b0d9ca40.gif">
 
@@ -30,21 +32,28 @@ Features:
 <h5 align="left">✨ Versatile Usage: </h5>
 <p align="left">Suitable for a wide range of applications, from personal communication to professional documents.</p>
 
+ <br> <br>
+
 <h3 align="center">
 Experience the future of language translation at the Interprastha Engineering College Mini Hackathon 1 with our English to Hindi Translator. Explore, connect, and communicate with confidence!"
 </h3>
 
+ <br>
+
 <h1 align="centre" >How To Run</h1>
+
+ <br>
+ 
 <h3 align="centre">
   To Run Code:Go To app.py
   Right click > Run On Terminal (Not On Output Tab)
 </h3>
 
-
-
-
-Made By Vaibhav Sharma 
-IPEC 1Yr/1Sem
-CSE(Section - B)
-
+<h1 align="centre" >Team Info</h1>
+<h3 align="left">Vaibhav Sharma [Leader]</h3>
+<h5>Anjali</h5>
+<h5>Yashika Pachori</h5>
+<h5>Harsh Kaushik</h5>
+<h5>Aditya Bhatnagar</h5>
+<h5>Jiya Singh</h5>
 
