@@ -1,13 +1,12 @@
 
 <h1 align="center">Introducing our English to Hindi Translator</h1>
+<h5 align="centre">ntroducing our innovative English to Hindi translator, crafted specifically for the Interprastha Mini Hackathon 1! This cutting-edge tool seamlessly bridges the linguistic gap between English and Hindi, offering precise and efficient translations at your fingertips.</h5>
 
 <br>
 
 <h2 align="center">
 Features:
 </h2>
-
- <br> <br>
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/361933/screenshots/1945595/media/cab8adf9008a598f724eb798b0d9ca40.gif">
 
