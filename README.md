@@ -8,7 +8,7 @@
 Features:
 </h2>
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/361933/screenshots/1945595/media/cab8adf9008a598f724eb798b0d9ca40.gif">
+<img align="right" alt="Coding" width="30%" src="https://cdn.dribbble.com/users/361933/screenshots/1945595/media/cab8adf9008a598f724eb798b0d9ca40.gif">
 
 <h4 align="left">✨ Accurate Translation: </h4>
 <p align="left">Utilizes advanced machine learning algorithms for precise translations from English to Hindi.</p>
