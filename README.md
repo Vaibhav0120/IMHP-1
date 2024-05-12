@@ -1,6 +1,6 @@
 
 <h1 align="center">Introducing our English to Hindi Translator</h1>
-<h5 align="centre">ntroducing our innovative English to Hindi translator, crafted specifically for the Interprastha Mini Hackathon 1! This cutting-edge tool seamlessly bridges the linguistic gap between English and Hindi, offering precise and efficient translations at your fingertips.</h5>
+<h3 align="center">ntroducing our innovative English to Hindi translator, crafted specifically for the Interprastha Mini Hackathon 1! This cutting-edge tool seamlessly bridges the linguistic gap between English and Hindi, offering precise and efficient translations at your fingertips.</h3>
 
 <br>
 
@@ -39,16 +39,16 @@ Experience the future of language translation at the Interprastha Engineering Co
 
  <br>
 
-<h1 align="centre" >How To Run</h1>
-
- <br>
+<h1 align="center" >How To Run</h1>
  
-<h3 align="centre">
+<h3 align="center">
   To Run Code:Go To app.py
   Right click > Run On Terminal (Not On Output Tab)
 </h3>
 
-<h1 align="centre" >Team Info</h1>
+ <br>
+
+<h1 align="center" >Team Info</h1>
 <h3 align="left">Vaibhav Sharma [Leader]</h3>
 <h5>Anjali</h5>
 <h5>Yashika Pachori</h5>
