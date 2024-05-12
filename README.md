@@ -41,6 +41,7 @@ Experience the future of language translation at the Interprastha Engineering Co
  
 <h1 align="center" >Screenshot</h1>
 ![Screenshot (56)](https://github.com/Vaibhav0120/IMHP-1/assets/150184948/5b9f9578-9c85-43ce-be22-d19a60451de4)
+<img src="https://github.com/Vaibhav0120/IMHP-1/assets/150184948/5b9f9578-9c85-43ce-be22-d19a60451de4">
 
 
  <br>
