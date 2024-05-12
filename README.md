@@ -49,10 +49,10 @@ Experience the future of language translation at the Interprastha Engineering Co
  <br>
 
 <h1 align="center" >Team Info</h1>
-<h3 align="left">Vaibhav Sharma [Leader]</h3>
-<h5>Anjali</h5>
-<h5>Yashika Pachori</h5>
-<h5>Harsh Kaushik</h5>
-<h5>Aditya Bhatnagar</h5>
-<h5>Jiya Singh</h5>
+<h3 align="center">Vaibhav Sharma [Leader]</h3>
+<h4 align="center">Anjali</h4>
+<h4 align="center">Yashika Pachori</h4>
+<h4 align="center">Harsh Kaushik</h4>
+<h4 align="center">Aditya Bhatnagar</h4>
+<h4 align="center">Jiya Singh</h4>
 
