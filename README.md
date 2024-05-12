@@ -1,30 +1,34 @@
 
-Introducing our English to Hindi Translator for the Interprastha Mini Hackathon 1:
+<h1 align="center">Introducing our English to Hindi Translator</h1>
 
+<h3 align="center">
 Features:
+</h3>
 
-Accurate Translation: 
-Utilizes advanced machine learning algorithms for precise translations from English to Hindi.
+<h5 align="left">✨ Accurate Translation: </h5>
+<p align="left">Utilizes advanced machine learning algorithms for precise translations from English to Hindi.</p>
 
-User-Friendly Interface: 
-Intuitive design for seamless navigation, catering to users of all proficiency levels.
+<h5 align="left">✨ User-Friendly Interface:</h5> 
+<p align="left">Intuitive design for seamless navigation, catering to users of all proficiency levels.</p>
 
-Contextual Understanding: 
-Captures nuances in language to ensure accurate and contextually appropriate translations.
+<h5 align="left">✨ Contextual Understanding: </h5>
+<p align="left">Captures nuances in language to ensure accurate and contextually appropriate translations.</p>
 
-Dynamic Adaptation: 
-Adapts to various linguistic styles and registers, from formal documents to informal conversations.
+<h5 align="left">✨ Dynamic Adaptation: </h5>
+<p align="left">Adapts to various linguistic styles and registers, from formal documents to informal conversations.</p>
 
-Cultural Sensitivity: 
-Ensures translations are culturally sensitive, resonating with native Hindi speakers.
+<h5 align="left">✨ Cultural Sensitivity: </h5>
+<p align="left">Ensures translations are culturally sensitive, resonating with native Hindi speakers.</p>
 
-Efficient Communication: 
-Facilitates effortless communication, breaking down language barriers in real-time.
+<h5 align="left">✨ Efficient Communication: </h5>
+<p align="left">Facilitates effortless communication, breaking down language barriers in real-time.</p>
 
-Versatile Usage: 
-Suitable for a wide range of applications, from personal communication to professional documents.
+<h5 align="left">✨ Versatile Usage: </h5>
+<p align="left">Suitable for a wide range of applications, from personal communication to professional documents.</p>
 
-Experience the future of language translation at the Interprastha Mini Hackathon 1 with our English to Hindi Translator. Explore, connect, and communicate with confidence!"
+<h3 align="center">
+Experience the future of language translation at the Interprastha Engineering College Mini Hackathon 1 with our English to Hindi Translator. Explore, connect, and communicate with confidence!"
+</h3>
 
 <h1 align="centre" >How To Run</h1>
 <h3 align="centre">
