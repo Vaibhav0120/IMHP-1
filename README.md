@@ -6,8 +6,10 @@ Made By Vaibhav Sharma
 IPEC 1Yr/1Sem
 CSE(Section - B)
 
-To Run Code:Go To app.py
-Right click > Run On Terminal (Not On Output Tab)
+<h1 align="centre" >How To Run</h1>
+<h3 align="centre">
+  To Run Code:Go To app.py
+  Right click > Run On Terminal (Not On Output Tab)
+</h3>
 
-Hackathon is over;
-winner project: Automatic turning ON/OFF Lights at Night/Day Time
+
