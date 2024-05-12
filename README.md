@@ -1,6 +1,6 @@
 
 <h1 align="center">Introducing our English to Hindi Translator</h1>
-<h3 align="center">ntroducing our innovative English to Hindi translator, crafted specifically for the Interprastha Mini Hackathon 1! This cutting-edge tool seamlessly bridges the linguistic gap between English and Hindi, offering precise and efficient translations at your fingertips.</h3>
+<h3 align="center">Introducing our innovative English to Hindi translator, crafted specifically for the Interprastha Engineering College Mini Hackathon 1! This cutting-edge tool seamlessly bridges the linguistic gap between English and Hindi, offering precise and efficient translations at your fingertips.</h3>
 
 <br>
 
