@@ -1,4 +1,3 @@
-
 <h1 align="center">Introducing our English to Hindi Translator</h1>
 <h3 align="center">Introducing our innovative English to Hindi translator, crafted specifically for the Interprastha Engineering College Mini Hackathon 1! This cutting-edge tool seamlessly bridges the linguistic gap between English and Hindi, offering precise and efficient translations at your fingertips.</h3>
 
@@ -31,29 +30,29 @@ Features:
 <h4 align="left">✨ Versatile Usage: </h4>
 <p align="left">Suitable for a wide range of applications, from personal communication to professional documents.</p>
 
- <br> <br>
+ `<br>` `<br>`
 
 <h3 align="center">
 Experience the future of language translation at the Interprastha Engineering College Mini Hackathon 1 with our English to Hindi Translator. Explore, connect, and communicate with confidence!"
 </h3>
 
- <br>
- 
+<br>
+
 <h1 align="center" >Screenshot</h1>
 
 <br>
 
 <img src="https://github.com/Vaibhav0120/IMHP-1/assets/150184948/e5406361-cfae-48ad-bf01-0d10fe114b80">
 
- <br>
- 
+<br>
+
 <h1 align="center" >How To Run</h1>
- 
+
 <h3 align="center">
 
 python -m venv venv
 
-venv/Scripts\activate
+venv\Scripts\activate
 
 pip install Flask==1.1.2
 pip install Flask-SQLAlchemy==2.4.4
@@ -72,9 +71,10 @@ pip freeze > requirements.txt
 
   To Run Code:Go To app.py
   Right click > Run On Terminal (Not On Output Tab)
+
 </h3>
 
- <br>
+<br>
 
 <h1 align="center" >Team Info</h1>
 <h3 align="center">Vaibhav Sharma [Leader]</h3>
@@ -83,4 +83,3 @@ pip freeze > requirements.txt
 <h4 align="center">Aditya Bhatnagar</h4>
 <h4 align="center">Jiya Singh</h4>
 <h4 align="center">Anjali</h4>
-
