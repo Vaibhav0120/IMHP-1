@@ -1,6 +1,0 @@
-Python Extension (pylance, Python)
-Flask Extension (flask-snippets)
-SQLite Extension (SQLite & MySQL Snippet for python flask django)
-Jinja extension (Jinja2 Snippet Kit)
-HTML (HTML CSS Support)
-code runner (setting = run in terminal, save file before running)

@@ -45,6 +45,23 @@ Experience the future of language translation at the Interprastha Engineering Co
 <img src="https://github.com/Vaibhav0120/IMHP-1/assets/150184948/e5406361-cfae-48ad-bf01-0d10fe114b80">
 
 <br>
+project/
+├── static/
+│   ├── css/
+│   │   └── style.css
+│   └── images/
+│       └── background.jpg
+├── templates/
+│   ├── about.html
+│   ├── base.html
+│   └── index.html
+├── .vercel/
+│   └── project.json
+├── .vercelignore
+├── app.py
+├── requirements.txt
+├── vercel.json
+
 
 <h1 align="center" >How To Run</h1>
 
