@@ -30,7 +30,7 @@ Features:
 <h4 align="left">✨ Versatile Usage: </h4>
 <p align="left">Suitable for a wide range of applications, from personal communication to professional documents.</p>
 
- `<br>` `<br>`
+ <br> <br>
 
 <h3 align="center">
 Experience the future of language translation at the Interprastha Engineering College Mini Hackathon 1 with our English to Hindi Translator. Explore, connect, and communicate with confidence!"
