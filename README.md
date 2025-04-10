@@ -50,27 +50,19 @@ Experience the future of language translation at the Interprastha Engineering Co
 
 <h3 align="center">
 
+   ```bash
 python -m venv venv
+   ```
 
+   ```bash
 venv\Scripts\activate
+   ```
 
-pip install Flask==1.1.2
-pip install Flask-SQLAlchemy==2.4.4
-pip install gunicorn==20.0.4
-pip install itsdangerous==1.1.0
-pip install Jinja2==2.11.3
-pip install MarkupSafe==1.1.1
-pip install SQLAlchemy==1.3.23
-pip install Werkzeug==1.0.1
-pip install click==7.1.2
-pip install httpx==0.13.3
-pip install httpcore==0.9.*
-pip install googletrans==4.0.0-rc1
-
-pip freeze > requirements.txt
-
-  To Run Code:Go To app.py
-  Right click > Run On Terminal (Not On Output Tab)
+   ```bash
+pip install -r requirements.txt
+   ```
+To Run Code:Go To app.py
+Right click > Run On Terminal (Not On Output Tab)
 
 </h3>
 
